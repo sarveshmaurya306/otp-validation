@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useLayoutEffect, useState } from 'react';
 import {useSearchParams, Link} from 'react-router-dom'
 import { toast } from 'react-toastify';
 import { useNavigate } from 'react-router-dom';
@@ -11,8 +11,12 @@ function OtpPage() {
   const [otp, setOtp] = useState('');
   const navigate= useNavigate();
 
-  const [searchParams, setSearchParams] = useSearchParams();
-  const [mobileNumber, setMobileNumber]= useState("+"+searchParams.get('mobile-number').trim());
+  const [searchParams] = useSearchParams();
+  const [mobileNumber, setMobileNumber]= useState('');
+  
+  useLayoutEffect(()=>{
+    setMobileNumber("+"+searchParams.get('mobile-number').trim());
+  }, [])
 
   function handleVerifyOtp(e) {
     e.preventDefault();
@@ -46,7 +50,7 @@ function OtpPage() {
 
   return (
     <>
-      <div className='tw-flex tw-justify-center tw-my-16'>
+      <div className='tw-flex tw-justify-center tw-my-0 sm:tw-my-16'>
         <img src={handIcon} alt='ak logo' className='tw-scale-90' />
       </div>
       <div className='tw-mb-6'>

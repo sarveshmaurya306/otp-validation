@@ -29,7 +29,7 @@ function SignInPage() {
 
   return (
     <>
-      <div className='tw-flex tw-justify-center tw-my-24'>
+      <div className='tw-flex tw-justify-center tw-my-10 sm:tw-my-24'>
         <img src={AKLogo} alt='ak logo' className='tw-scale-75' />
       </div>
       <div className='tw-mb-16'>

@@ -9,7 +9,7 @@ function SuccessPage() {
   }
   return (
     <>
-      <div className='tw-flex tw-justify-center tw-my-6'>
+      <div className='tw-flex tw-justify-center tw-my-0 sm:tw-my-6'>
         <img src={IlustrationIcon} alt='ak logo' className='tw-scale-90' />
       </div>
       <div className='tw-mb-6'>
@@ -23,7 +23,7 @@ function SuccessPage() {
       </div>
 
       <form onClick={handleLastCompletion}>
-        <div className='tw-w-full tw-flex tw-justify-center tw-my-12'></div>
+        <div className='tw-w-full tw-flex tw-justify-center tw-my-6 sm:tw-my-12'></div>
 
         <div className='tw-mb-16'>
           <div className='tw-text-sm tw-mb-5'>
