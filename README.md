@@ -1,6 +1,7 @@
 ## Live At
 
 This project is currently live at https://front-end-otp-validation.onrender.com
+- note -> please wait for sometime as we are using Render here, it takes time to open
 
 ## Video Demo 
 Comming soon
