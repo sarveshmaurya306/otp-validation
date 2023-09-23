@@ -41,3 +41,10 @@ npm start
 |  | client | server |
 | ---- | ----- | ----- |
 | Runs on | https://127.0.0.1:3000 | https://127.0.0.1:5000  |
+
+
+#### Glimps of the app
+
+![sc1](sc1.png)
+![sc2](sc2.png)
+![sc3](sc3.png)
