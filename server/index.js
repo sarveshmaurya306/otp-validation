@@ -6,7 +6,7 @@ const router= require('./routes')
 const keys= require("./keys")
 
 const app= express();
-const PORT = keys.PORT || 4000;
+const PORT = keys.PORT || 5000;
 
 app.use(express.json())
 app.use(cors({
