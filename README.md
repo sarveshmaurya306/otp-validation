@@ -32,3 +32,8 @@ echo "REACT_APP_API_URL= http://127.0.0.1:5000/api" > .env
 npm install 
 npm start
 ```
+
+#### Access Server and client givent links
+|  | client | server |
+| ---- | ----- | ----- |
+| Runs on | https://127.0.0.1:3000 | https://127.0.0.1:5000  |
