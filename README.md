@@ -3,6 +3,10 @@
 This project is currently live at https://front-end-otp-validation.onrender.com
 - note -> please wait for sometime as we are using Render here, it takes time to open
 
+- page 1 -> https://front-end-otp-validation.onrender.com
+- page 2 -> https://front-end-otp-validation.onrender.com/otp-verify?mobile-number=+917985670901
+- page 3 -> https://front-end-otp-validation.onrender.com/welcome
+
 ## Video Demo 
 Comming soon
 
@@ -49,9 +53,9 @@ npm start
 
 #### Glimps of the app
 
-- page 1
+- page 1 (https://front-end-otp-validation.onrender.com/)
 ![sc3](https://res.cloudinary.com/dnwcamylp/image/upload/v1695462578/io9f80nwumdnpyyovp4x.png)
-- page 2
+- page 2 (https://front-end-otp-validation.onrender.com/otp-verify?mobile-number=+917985670901)
 ![sc2](https://res.cloudinary.com/dnwcamylp/image/upload/v1695462578/oymyzyckbatfjqvtvqct.png)
-- page 3
+- page 3 (https://front-end-otp-validation.onrender.com/welcome)
 ![sc1](https://res.cloudinary.com/dnwcamylp/image/upload/v1695462579/olevxv0rhwjkbi9sb81x.png)
