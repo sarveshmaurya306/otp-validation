@@ -2,6 +2,9 @@
 
 This project is currently live at https://front-end-otp-validation.onrender.com
 
+## Video Demo 
+Comming soon
+
 ## Tech Used
 
 This project uses a number of open source projects to work properly:
@@ -45,6 +48,9 @@ npm start
 
 #### Glimps of the app
 
-![sc1](sc1.png)
-![sc2](sc2.png)
-![sc3](sc3.png)
+- page 1
+![sc3](https://res.cloudinary.com/dnwcamylp/image/upload/v1695462578/io9f80nwumdnpyyovp4x.png)
+- page 2
+![sc2](https://res.cloudinary.com/dnwcamylp/image/upload/v1695462578/oymyzyckbatfjqvtvqct.png)
+- page 3
+![sc1](https://res.cloudinary.com/dnwcamylp/image/upload/v1695462579/olevxv0rhwjkbi9sb81x.png)
