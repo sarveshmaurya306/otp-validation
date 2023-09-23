@@ -104,7 +104,7 @@ function OtpPage() {
               Resend
             </button>
           </div>
-          <button disabled={btnDisabled} type='submit' style={{transition: 'all 500ms ease'}} className="hover:tw-shadow-md hover:tw-bg-black !tw-w-[70%] tw-btn tw-py-3 tw-rounded-full tw-bg-[#F7B348] tw-text-white tw-capitalize tw-text-sm tw-font-medium ">
+          <button disabled={btnDisabled} type='submit' style={{transition: 'all 500ms ease'}} className="hover:tw-shadow-md hover:tw-bg-black !tw-w-[70%] tw-btn tw-py-3 tw-rounded-full !tw-bg-[#F7B348] tw-text-white tw-capitalize tw-text-sm tw-font-medium ">
             Verify
           </button>
         </div>

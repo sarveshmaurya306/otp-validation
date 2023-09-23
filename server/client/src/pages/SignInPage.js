@@ -73,7 +73,7 @@ function SignInPage() {
           </p>
         </div>
         <div className='tw-my-24'>
-          <button disabled={btnDisabled} type='submit' style={{transition: 'all 500ms ease'}} className="hover:tw-shadow-md hover:tw-bg-black !tw-w-[70%] tw-btn tw-py-3 tw-rounded-full tw-bg-[#F7B348] tw-text-white tw-capitalize tw-text-sm tw-font-medium ">Sign In with OTP</button>
+          <button disabled={btnDisabled} type='submit' style={{transition: 'all 500ms ease'}} className="hover:tw-shadow-md hover:tw-bg-black !tw-w-[70%] tw-btn tw-py-3 tw-rounded-full !tw-bg-[#F7B348] tw-text-white tw-capitalize tw-text-sm tw-font-medium ">Sign In with OTP</button>
         </div>
       </form>
     </>

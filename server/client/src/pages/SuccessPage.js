@@ -28,7 +28,7 @@ function SuccessPage() {
         <div className='tw-mb-16'>
           <div className='tw-text-sm tw-mb-5'>
           </div>
-          <button type='submit' style={{transition: 'all 500ms ease'}} className="hover:tw-shadow-md hover:tw-bg-black !tw-w-[70%] tw-btn tw-py-3 tw-rounded-full tw-bg-[#F7B348] tw-text-white tw-capitalize tw-text-sm tw-font-medium ">
+          <button type='submit' style={{transition: 'all 500ms ease'}} className="hover:tw-shadow-md hover:tw-bg-black !tw-w-[70%] tw-btn tw-py-3 tw-rounded-full !tw-bg-[#F7B348] tw-text-white tw-capitalize tw-text-sm tw-font-medium ">
             Get Started
           </button>
           <p className='tw-text-[#999999] tw-text-xs mt-1'>
