@@ -8,7 +8,7 @@ This project is currently live at https://front-end-otp-validation.onrender.com
 - page 3 -> https://front-end-otp-validation.onrender.com/welcome
 
 ## Video Demo 
-Comming soon
+[Watch?](https://www.veed.io/view/d6aa8efe-6c71-45c7-99e1-50bb635f1d74?panel=share)
 
 ## Tech Used
 
